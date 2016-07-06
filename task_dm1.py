@@ -1,7 +1,7 @@
 from drawman import *
 from time import sleep
 
-A = [(0, 0), (100, 0), (100, 100), (0, 100)]
+A = [(0, 0), (50, 0), (50, 50), (0, 50)]
 
 pen_down()
 for x, y in A:
