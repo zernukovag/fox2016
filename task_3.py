@@ -90,6 +90,5 @@ for i in range(len(s)):
     elif p==9:
         digit(a9,b9)
 
-
 t.hideturtle()
 sleep(30)
